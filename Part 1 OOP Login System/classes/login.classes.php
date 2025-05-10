@@ -1,5 +1,7 @@
 <?php
 
+use classes\Dbh;
+
 class Login extends Dbh {
 
     protected function getUser($uid, $pwd) {

@@ -1,5 +1,7 @@
 <?php
 
+use classes\SignupContr;
+
 if(isset($_POST["submit"]))
 {
     $uid = $_POST["uid"];

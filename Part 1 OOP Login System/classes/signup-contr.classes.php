@@ -1,5 +1,7 @@
 <?php
 
+use classes\Signup;
+
 class SignupContr extends Signup {
 
     private $uid;

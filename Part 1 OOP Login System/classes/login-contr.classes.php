@@ -1,5 +1,7 @@
 <?php
 
+use classes\Login;
+
 class loginContr extends Login {
 
     private $uid;

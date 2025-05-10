@@ -1,5 +1,7 @@
 <?php
 
+use classes\Dbh;
+
 class Signup extends Dbh {
 
     protected function setUser($uid, $pwd, $email) {
