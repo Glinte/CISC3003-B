@@ -16,7 +16,7 @@
 <header>
     <nav>
         <div>
-            <h3>DANI KROSSING</h3>
+            <h3>SAVIO MAK WENG HOU DC227551</h3>
             <ul class="menu-main">
                 <li><a href="index.php">HOME</a></li>
                 <li><a href="#">PRODUCTS</a></li>

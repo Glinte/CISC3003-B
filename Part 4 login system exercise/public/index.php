@@ -37,7 +37,11 @@ require_once 'includes/signup_view.inc.php';
     <?php
     check_signup_errors();
     ?>
-
+    <footer>
+        <p>
+            Savio Mak Weng Hou DC227551
+        </p>
+    </footer>
 </body>
 
 </html>

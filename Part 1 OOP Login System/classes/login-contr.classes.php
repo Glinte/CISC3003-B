@@ -1,5 +1,7 @@
 <?php
 
+namespace classes;
+
 use classes\Login;
 
 class loginContr extends Login {
